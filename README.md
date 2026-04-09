@@ -7,8 +7,7 @@
  ### Main skills: ![Python](https://img.shields.io/badge/Python-5C33F6?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-5C33F6?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Machinelearning](https://img.shields.io/badge/Machine_Learning-5C33F6?style=for-the-badge&logo=logoColor=white)&nbsp;
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=45&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Thiago+Ramos;I'm+43+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%90)]
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Thiago+Ramos;I'm+43+years+old;I'm+from+Brazil;Data+Scientist;Welcome!)
 
 <p align="center">
   📊 Cientista de Dados em formação | 📚 Apaixonado por aprendizado | 🚀 Em transição para tecnologia
