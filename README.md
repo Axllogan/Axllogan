@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Profissional com 43 anos, atualmente em transição de carreira para a área de **Ciência de Dados**.
+🎯 Atualmente em transição de carreira para a área de **Análise de Dados**.
 📚 Tenho grande interesse em aprendizado contínuo e desenvolvimento de soluções baseadas em dados.
 💡 Busco aprender a aplicar análise de dados e Machine Learning para resolver problemas reais e gerar valor para negócios.
 
@@ -44,14 +44,19 @@
 
 ## 📂 Exercícios em Destaque
 
-### 🎬 Sistema de Recomendação (Netflix-like)
+classificacao-hipotireoidismo — Projeto de conclusão de curso em Ciência de Dados: classificação binária com Python e Machine Learning.
+Cartorioebac — Projeto do Curso de TI da EBAC.
+exercicio_supermercado_estatisca — Notebook Jupyter com exercício de estatística.
+classificacao-hipotireoidismo — Projeto de conclusão de curso em Ciência de Dados: classificação binária com Python e Machine Learning.
 
+Sistema de Recomendação (Netflix-like)
 Desenvolvimento de um modelo de Machine Learning para sugerir conteúdos com base no comportamento do usuário.
-
 ✔️ Análise exploratória de dados
 ✔️ Engenharia de atributos
 ✔️ Modelos de recomendação
 ✔️ Avaliação com métricas
+
+
 
 ---
 
