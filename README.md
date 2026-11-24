@@ -48,7 +48,7 @@
 
 - Cartorioebac — Projeto do Curso de TI da EBAC.
 
--Exercicio_supermercado_estatisca — Notebook Jupyter com exercício de estatística.
+- Exercicio_supermercado_estatisca — Notebook Jupyter com exercício de estatística.
 
 - Sistema de Recomendação (Netflix-like)
 Desenvolvimento de um modelo de Machine Learning para sugerir conteúdos com base no comportamento do usuário.
