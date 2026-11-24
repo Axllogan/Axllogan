@@ -44,12 +44,13 @@
 
 ## 📂 Exercícios em Destaque
 
-classificacao-hipotireoidismo — Projeto de conclusão de curso em Ciência de Dados: classificação binária com Python e Machine Learning.
-Cartorioebac — Projeto do Curso de TI da EBAC.
-exercicio_supermercado_estatisca — Notebook Jupyter com exercício de estatística.
-classificacao-hipotireoidismo — Projeto de conclusão de curso em Ciência de Dados: classificação binária com Python e Machine Learning.
+- Classificacao-hipotireoidismo — Projeto de conclusão de curso em Ciência de Dados: classificação binária com Python e Machine Learning.
 
-Sistema de Recomendação (Netflix-like)
+- Cartorioebac — Projeto do Curso de TI da EBAC.
+
+-Exercicio_supermercado_estatisca — Notebook Jupyter com exercício de estatística.
+
+- Sistema de Recomendação (Netflix-like)
 Desenvolvimento de um modelo de Machine Learning para sugerir conteúdos com base no comportamento do usuário.
 ✔️ Análise exploratória de dados
 ✔️ Engenharia de atributos
